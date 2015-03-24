@@ -1,0 +1,26 @@
+log4cxx
+json
+thrift      protobuf
+fastcgi     spwan_cgi
+
+2核 4G 5M
+123.57.54.194 (公)
+10.165.116.15 (内)
+password:Xinyihezi6
+
+nginx -s reload
+/usr/local/nginx
+
+mysqldump
+source
+show variables like 'port';
+数据库：
+        root    0okmnji9*UHB
+
+www.xinyihezi.com/user/?o_type=1&t_type=2&ticket=?浏览器cookie?
+o_type:{1: select, 2:search}
+t_type:{}
+用户中心：
+用户基本信息：
+用户地址：
+用户第三方号：
