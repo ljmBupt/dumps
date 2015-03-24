@@ -24,3 +24,6 @@ t_type:{}
 用户基本信息：
 用户地址：
 用户第三方号：
+
+
+http://123.57.54.194:8888/user/?debugmod=1&type=0&area=0&member_id=2
